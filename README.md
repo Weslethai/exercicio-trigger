@@ -10,7 +10,7 @@ POR FIM, MONTE UM REPOSITÓRIO REMOTO E PREENCHA O README.MD COM O MODELO LÓGIC
 ![modelo-logico-trigger2](https://github.com/Weslethai/exercicio-trigger/assets/165031332/ea48e5d3-6ff1-4a4f-b3f2-206da7dd877c)
 
 # Print da execução do código
-![modelo-logico-trigger2](https://github.com/Weslethai/exercicio-trigger/assets/165031332/f0e45296-a1bd-48d3-a398-70f0e7c0eed8)
+![triggerexemplo2](https://github.com/Weslethai/exercicio-trigger/assets/165031332/b969f5d3-8282-41e4-9155-9eacb67654e4)
 
 # Pré requisitos
 para esse exercicio foi utilizado o MYSQL Workbench
