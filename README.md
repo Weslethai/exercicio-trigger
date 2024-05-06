@@ -1,4 +1,4 @@
-# exercicio-trigger
+# exercicio-trigger-exemplo2 - Filmes-
 REPRODUZA OS DOIS EXEMPLOS DADOS NO MYSQL WORKBENCH;
 
 EXECUTE AS ETAPAS E VERIFIQUE SEUS RESULTADOS;
@@ -7,10 +7,10 @@ VEJA OS RESULTADOS OBTIDOS A CADA TAREFA REALIZADA E TIRE PRINT’S DOS RESULTAD
 
 POR FIM, MONTE UM REPOSITÓRIO REMOTO E PREENCHA O README.MD COM O MODELO LÓGICO MONTADO DO PRIMEIRO EXEMPLO, SOMENTE UM PRINT DO MODELO E DENTRO DO SEU REPOSITÓRIO REMOTO FEITO COLOQUE O CÓDIGO SQL DO PRIMEIRO EXEMPLO;
 # Modelo Lógico
-![modelo_logico_trigger](https://github.com/Weslethai/exercicio-trigger/assets/165031332/e0aefe38-1558-43d3-a0aa-02a7d4e63e80)
+![modelo-logico-trigger2](https://github.com/Weslethai/exercicio-trigger/assets/165031332/ea48e5d3-6ff1-4a4f-b3f2-206da7dd877c)
 
 # Print da execução do código
-![print execução do codigo](https://github.com/Weslethai/exercicio-trigger/assets/165031332/3373cef5-5499-4987-ac71-aee1bbba85d7)
+![modelo-logico-trigger2](https://github.com/Weslethai/exercicio-trigger/assets/165031332/f0e45296-a1bd-48d3-a398-70f0e7c0eed8)
 
 # Pré requisitos
 para esse exercicio foi utilizado o MYSQL Workbench
