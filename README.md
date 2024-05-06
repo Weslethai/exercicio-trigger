@@ -13,7 +13,7 @@ POR FIM, MONTE UM REPOSITÓRIO REMOTO E PREENCHA O README.MD COM O MODELO LÓGIC
 
 # Print da execução do código
 print da primeira parte do exercicio
-![print1](https://github.com/Weslethai/exercicio-trigger/assets/165031332/5ce32a0b-0ba8-4813-8145-57a3a650c133)
+![image](https://github.com/Weslethai/exercicio-trigger/assets/165031332/fcf39a3a-8c67-4a7d-8a10-2dc47520256d)
 print da segunda parte do exercicio
 ![triggerexemplo2](https://github.com/Weslethai/exercicio-trigger/assets/165031332/b969f5d3-8282-41e4-9155-9eacb67654e4)
 
